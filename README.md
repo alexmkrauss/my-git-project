@@ -1,6 +1,5 @@
 # "my-git-project" 
 
-
-# my local change
+# My scary merge conflict code
 
 ## I'm in the feature branch 

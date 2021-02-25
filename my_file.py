@@ -3,4 +3,5 @@ print('Hi Git')
 print('Hi there from another dev')
 
 def hi_there():
-    print("My local change")
+   print("Update python function with merge conflict")
+
