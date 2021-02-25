@@ -1,6 +1,6 @@
 print('Hi Git')
 
-print('Hi thre from another dev')
+print('Hi there from another dev')
 
 def hi_there():
-    print("hi"):
+    print("hi")
