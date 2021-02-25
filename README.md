@@ -1,5 +1,5 @@
 # "my-git-project" 
 
-# Hi from another dev
+# My scary merge conflict code
 
 ## I'm in the feature branch 
